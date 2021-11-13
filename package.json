@@ -1,0 +1,24 @@
+{
+  "name": "P",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "git": "git add --all && git commit -m",
+    "postgit": "git push --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmogi/vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmogi/vue/issues"
+  },
+  "homepage": "https://github.com/johnmogi/vue#readme"
+}
