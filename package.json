@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/johnmogi/vue/issues"
   },
-  "homepage": "https://github.com/johnmogi/vue#readme"
+  "homepage": "https://github.com/johnmogi/vue#readme",
+  "dependencies": {}
 }
