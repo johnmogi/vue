@@ -1,5 +1,8 @@
 # vue
 BE:
+continuing the installation at:
+
+https://github.com/johnmogi/mongo_train_albums
 
 FE:
 
